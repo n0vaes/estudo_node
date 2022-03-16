@@ -1,6 +1,4 @@
-## Fundamentos de typescript
+## Curso de NodeJS
 
-- Tipagem de variável
-- Criação de interface
-- Definição de tipagem obrigatória/opcional
-- criação de valor default da tipagem
+- Relembrando conceitos
+- Readme ainda é um work in progress, irei revisitá-lo após terminar o curso e fazer os ajustes necessários
